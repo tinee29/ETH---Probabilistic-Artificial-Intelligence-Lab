@@ -7,7 +7,7 @@ This repository contains implementations of Bayesian methods for optimization, u
 - [Tasks](#tasks)
   - [Task 1: Gaussian Process Regression for Air Pollution Prediction](#task-1-bayesian-optimization-for-drug-candidate-effectiveness)
   - [Task 2: Bayesian Neural Networks for Satellite Image Classification](#task-2-bayesian-neural-networks-for-satellite-image-classification)
-  - [Task 3: Probabilistic Artificial Intelligence](#task-3-probabilistic-artificial-intelligence)
+  - [Task 3: Bayesian Optimization for Drug Candidate Effectiveness](#task-3-probabilistic-artificial-intelligence)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -22,7 +22,7 @@ Each task is implemented in Python, leveraging libraries such as `numpy`, `scipy
 
 ## Tasks
 
-### Task 1: Bayesian Optimization for Drug Candidate Effectiveness
+### Task 1: Gaussian Process Regression for Air Pollution Prediction
 **Description**:  
 This task involves using Bayesian Optimization to maximize the bioavailability (logP) of a drug candidate while ensuring its synthetic accessibility (SA) remains below a safety threshold. The algorithm iteratively evaluates structural features (x) to find the optimal solution that maximizes logP within the given constraints.
 
@@ -53,7 +53,7 @@ This task implements a Bayesian Neural Network (BNN) using Stochastic Weight Ave
 
 ---
 
-### Task 3: Probabilistic Artificial Intelligence
+### Task 3: Bayesian Optimization for Drug Candidate Effectiveness
 **Description**:  
 This task demonstrates Bayesian hypothesis testing using three probability distributions: Normal, Laplace, and Student-t. The goal is to compute the posterior probabilities of each hypothesis given observed data.
 
