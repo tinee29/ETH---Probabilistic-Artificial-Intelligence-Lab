@@ -5,7 +5,7 @@ This repository contains implementations of Bayesian methods for optimization, u
 ## Table of Contents
 - [Overview](#overview)
 - [Tasks](#tasks)
-  - [Task 1: Bayesian Optimization for Drug Candidate Effectiveness](#task-1-bayesian-optimization-for-drug-candidate-effectiveness)
+  - [Task 1: Gaussian Process Regression for Air Pollution Prediction](#task-1-bayesian-optimization-for-drug-candidate-effectiveness)
   - [Task 2: Bayesian Neural Networks for Satellite Image Classification](#task-2-bayesian-neural-networks-for-satellite-image-classification)
   - [Task 3: Probabilistic Artificial Intelligence](#task-3-probabilistic-artificial-intelligence)
 - [Installation](#installation)
